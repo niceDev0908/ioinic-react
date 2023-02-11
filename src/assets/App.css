@@ -1,0 +1,64 @@
+.form-control, .custom-file-input,.button-native, .custom-file-label, .button, .ion-select-custom > div {
+    border-radius: 0!important;
+}
+
+*{
+    font-family: 'Montserrat', sans-serif!important;
+}
+
+.form-control{
+    font-size: 0.9rem;
+}
+
+ion-chip > .item.sc-ion-label-md-h, .item .sc-ion-label-md-h{
+    font-size: 0.7rem;
+}
+
+.reaction-icon{
+    font-size: 18px;
+}
+
+.icon-text{
+    position: relative;
+    top: -4px;
+}
+.station-label{
+    margin-left: 15px;
+}
+
+.actualite-card{
+    padding: 0;
+    margin: 5px 0 0;
+}
+.comment-input{
+    border: solid 1px grey;
+    border-radius: 25px;
+    height: 35px;
+}
+.comment-button{
+    border: none;
+}
+.react-confirm-alert-body{
+    text-align: center!important;
+}
+.react-confirm-alert-button-group{
+    justify-content: center!important;
+}
+
+.loading-content {
+    font-size: 12px!important;
+}
+.just-text{
+    background: #3880fe;
+    color: white!important;
+    text-align: center;
+    font-size: 14px!important;
+    font-weight: bold;
+    height: 200px;
+    display: flex!important;
+    justify-content: center;
+    align-items: center;
+}
+.comment-content-comment{
+    max-width: 100%!important;
+}

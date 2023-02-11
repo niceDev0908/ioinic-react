@@ -1,0 +1,9 @@
+{
+  "appId": "com.signaleo.io",
+  "appName": "signaleo",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "cordova": {},
+  "linuxAndroidStudioPath": "/opt/android-studio/bin/studio.sh"
+}
