@@ -13,9 +13,6 @@ Application pour signaler l'embouteillage à Madagascar.
 
 ## Installation
 
-Clone this repository : 
-
-`https://github.com/julkwel/signaleo.git`
 
 Go inside
 
